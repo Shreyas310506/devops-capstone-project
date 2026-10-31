@@ -2,6 +2,8 @@
 
 Customer Accounts microservice for an e-commerce website. A Python Flask REST API supporting create, read, update, delete, and list operations on customer accounts, built with Test Driven Development, CI/CD automation, and Kubernetes deployment.
 
+![Build Status](https://github.com/Shreyas310506/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
